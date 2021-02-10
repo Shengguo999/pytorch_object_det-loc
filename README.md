@@ -36,3 +36,5 @@ torch==1.6.0
 torchvision==0.7.0
 pycocotools==2.0.0
 Pillow==8.0.1
+
+重点参考：https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
