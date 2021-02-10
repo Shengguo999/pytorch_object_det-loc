@@ -38,3 +38,7 @@ pycocotools==2.0.0
 Pillow==8.0.1
 
 重点参考：https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
+save_weights是个空文件，权重文件下载后放进去即可。链接：https://pan.baidu.com/s/1L4IGX36svLHjNwAQDuosmQ 
+提取码：7hhy 
+复制这段内容后打开百度网盘手机App，操作更方便哦
